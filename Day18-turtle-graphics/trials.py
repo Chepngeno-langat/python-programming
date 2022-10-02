@@ -14,8 +14,8 @@ timmy.shape("turtle")
 #for i in range(3, 11):
     #timmy.color(random.choice(colors))
     #draw_shape(i)
-timmy.width(4)
-timmy.speed(10)
+timmy.width(2)
+timmy.speed("fastest")
 t.colormode(255)
 def random_color():
     r = random.randint(0, 255)
