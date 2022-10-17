@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b37a1bb-bd6a-4341-9942-769830ba3f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day29-passsword-manager/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day30-error-handling-and-exceptions/a_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day30-error-handling-and-exceptions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day29-passsword-manager/second_try.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day26-list-comprehension/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day26-list-comprehension/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Day29-passsword-manager/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day29-passsword-manager/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
