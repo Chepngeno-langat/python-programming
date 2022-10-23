@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b37a1bb-bd6a-4341-9942-769830ba3f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day29-passsword-manager/second_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/data/french_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/data/words_to_learn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day31-flashcard-app/trial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Day29-passsword-manager/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day29-passsword-manager/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
