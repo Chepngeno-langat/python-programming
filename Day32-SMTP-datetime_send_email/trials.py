@@ -1,18 +1,27 @@
 import smtplib
 
-sender = 'karennsample228@gmail.com'
-receivers = ['smaple.karen@yahoo.com']
+def prompt(prompt):
+    return input(prompt).strip()
 
-message = """From: From Person <from@fromdomain.com>
-To: To Person <to@todomain.com>
-Subject: SMTP e-mail test
+fromaddr = prompt("From: ")
+toaddrs  = prompt("To: ").split()
+print("Enter message, end with ^D (Unix) or ^Z (Windows):")
 
-This is a test e-mail message.
-"""
+# Add the From: and To: headers at the start!
+msg = ("From: %s\r\nTo: %s\r\n\r\n"
+       % (fromaddr, ", ".join(toaddrs)))
+while True:
+    try:
+        line = input()
+    except EOFError:
+        break
+    if not line:
+        break
+    msg = msg + line
 
-try:
-   smtpObj = smtplib.SMTP('smtp.gmail.com', 80)
-   smtpObj.sendmail(sender, receivers, message)
-   print("Successfully sent email")
-except smtplib.SMTPException:
-   print("Error: unable to send email")
+print("Message length is", len(msg))
+
+server = smtplib.SMTP('smtp.mail.yahoo.com')
+server.set_debuglevel(1)
+server.sendmail(fromaddr, toaddrs, msg)
+server.quit()

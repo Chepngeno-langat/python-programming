@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b37a1bb-bd6a-4341-9942-769830ba3f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day32-SMTP-datetime_send_email/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day32-SMTP-datetime_send_email/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day32-SMTP-datetime_send_email/trials.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Day29-passsword-manager/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day29-passsword-manager/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day32-SMTP-datetime_send_email/trials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day32-SMTP-datetime_send_email/trials.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
