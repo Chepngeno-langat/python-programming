@@ -1,7 +1,7 @@
 import requests
 
-api_key1 = "8c66c322c1e50bd8a059d13f2e3b3b8c"
-api_key2 = "826ce9bf20babc2664761fb5707b3450"
+api_key1 = "12345"
+api_key2 = "12345"
 
 parameter1 = {
     "q": "Nairobi,Kenya",
