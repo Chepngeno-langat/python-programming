@@ -5,6 +5,7 @@ TWILIO_SID = "xxxxxxx"
 TWILIO_NUMBER = "xxxxxxxx"
 MY_NUMBER = "xxxxxxxx"
 
+
 class NotificationManager:
     def __init__(self):
         self.client = Client(TWILIO_SID, TWILIO_AUTH_TOKEN)

@@ -4,6 +4,7 @@ from pprint import pprint
 SHEETY_ENDPOINT = "xxxxxxxxxxxxxx"
 BEARER_ID = "xxxxxxxxx"
 
+
 SHEET_HEADERS = {
             "Authorization": BEARER_ID,
         }
