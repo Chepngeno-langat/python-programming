@@ -15,4 +15,4 @@ for n in range(len(event_times)):
         "name": event_names[n].text,
     }
 print(events)
-driver.quit()
+#driver.quit()
