@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b37a1bb-bd6a-4341-9942-769830ba3f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day48-selenium/cookie_clicker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-programming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day56_rendering html files with flask/Name card template/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day56_rendering html files with flask/Name card template/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day57_Dynamic websites with jinja/blog-templating/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day57_Dynamic websites with jinja/blog-templating/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alx-trials/counting_vowels.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,16 +40,23 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/karen/Documents/python-programming&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/karen/Downloads/p.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day25-csv-data" />
       <recent name="$PROJECT_DIR$/Day18-turtle-graphics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Lux-Projects" />
+      <recent name="$PROJECT_DIR$/Day56_rendering html files with flask/my_web" />
+      <recent name="$PROJECT_DIR$/Day56_rendering html files with flask/static" />
+      <recent name="$PROJECT_DIR$/Day56_rendering html files with flask/templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
