@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b37a1bb-bd6a-4341-9942-769830ba3f94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day58-web foundation bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/binary-decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-programming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day56_rendering html files with flask/Name card template/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day56_rendering html files with flask/Name card template/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day57_Dynamic websites with jinja/blog-templating/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day57_Dynamic websites with jinja/blog-templating/post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alx-trials/counting_vowels.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>

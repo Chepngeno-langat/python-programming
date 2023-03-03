@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DS-projects/Iris data/.idea/Iris data.iml" filepath="$PROJECT_DIR$/../DS-projects/Iris data/.idea/Iris data.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-programming.iml" filepath="$PROJECT_DIR$/.idea/python-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Lux-Projects/week1 projects/.idea/week1 projects.iml" filepath="$PROJECT_DIR$/../Lux-Projects/week1 projects/.idea/week1 projects.iml" />
     </modules>
