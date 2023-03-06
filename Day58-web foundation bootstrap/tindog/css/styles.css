@@ -97,6 +97,10 @@ p {
     border-radius: 100%;
     margin: 20px;
 }
+.carousel-item {
+    padding: 7% 15%;
+}
+
 /* Press */
 #press {
     background-color: #ef8172;
