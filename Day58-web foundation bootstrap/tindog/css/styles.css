@@ -126,6 +126,28 @@ p {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #FF4C68;
+    padding: 7% 15%;
+    text-align: center;
+    color: #fff;
+}
+.cta-heading{
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+#footer {
+    padding: 2% 15%;
+    text-align: center;
+}
+a {
+    color: black;
+    margin: 5% 3% 5% 0;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
