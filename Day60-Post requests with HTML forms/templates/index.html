@@ -9,14 +9,14 @@
 </head>
 <body>
     <h2>Welcome</h2>
-    <form>
+    <form action="/login" method="post">
         <div class="container">
             <div class="row">
                 <div class="col-sm">
-                    <label for="fname">Name:<input type="text"></label>
+                    <label for="fname">Name:<input type="text" name="username"></label>
                 </div>
                 <div class="col-sm">
-                    <label for="fpass">Password:<input type="password"></label>
+                    <label for="fpass">Password:<input type="password" name="password"></label>
                 </div>
                 <div class="col-sm">
                     <button type="submit">Submit</button>
