@@ -26,8 +26,8 @@ class Book(db.Model):
 
 db.create_all()
 
-# new_book = Book(id=1, title="Harry Potter", author="J. K. Rowling", rating=9.3)
-# db.session.add(new_book)
+# new_book2 = Book(id=2, title="The Kite Runner", author="Khaled Hosseini", rating=9.5)
+# db.session.add(new_book2)
 # db.session.commit()
 
 all_books = db.session.query(Book).all()
