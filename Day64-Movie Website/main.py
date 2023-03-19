@@ -15,7 +15,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///movie-ranking.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
-MOVIE_DB_URL = "https://developers.themoviedb.org/3/search/search-movies"
+MOVIE_DB_URL = "https://api.themoviedb.org/3/search/movie?"
 MOVIE_DB_API = "578f6159497928dc51b72571f0f08f4b"
 
 class Movie(db.Model):
