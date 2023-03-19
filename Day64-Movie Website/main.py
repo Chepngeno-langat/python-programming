@@ -16,7 +16,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
 MOVIE_DB_URL = "https://api.themoviedb.org/3/search/movie?"
-MOVIE_DB_API = "578f6159497928dc51b72571f0f08f4b"
+MOVIE_DB_API = "###################"
 MOVIE_DB_INFO_URL = 'https://api.themoviedb.org/3/movie'
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
 
