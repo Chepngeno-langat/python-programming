@@ -22,4 +22,5 @@ user = User(username='user', email='user@email.com')
 
 db.session.add(admin)
 db.session.add(guest)
+db.session.add(user)
 db.session.commit()
