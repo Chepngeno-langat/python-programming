@@ -18,7 +18,8 @@ db.create_all()
 
 admin = User(username='admin', email='admin@example.com')
 guest = User(username='guest', email='guest@example.com')
-user = User(username='user', email='user@email.com')
+person1 = User(username='person1', email='person1@email.com')
+
 
 db.session.add(admin)
 db.session.add(guest)
