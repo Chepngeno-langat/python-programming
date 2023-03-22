@@ -12,5 +12,5 @@ cur = con.cursor()
 
 #cur.execute("CREATE TABLE music(id INTEGER PRIMARY KEY, title varchar(250) NOT NULL UNIQUE, artist varchar(250) NOT NULL)")
 # con.execute("INSERT INTO music VALUES(1, 'Would That I', 'Hozier')")
-con.execute("INSERT INTO music VALUES(2, 'Dont Stay', 'X Ambassadors')")
+con.execute("INSERT INTO music VALUES(3, 'Imagine  ', 'Kirk Franklin')")
 con.commit()
